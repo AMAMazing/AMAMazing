@@ -1,16 +1,30 @@
-### Hi there 👋
+# 👋 Hi there, I'm AMAMazing!
 
-<!--
-**AMAMazing/AMAMazing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6EC7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;CSS+Enthusiast;JavaScript+Developer;Python+Automation+Expert" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm passionate about creating elegant solutions through code. My journey involves crafting everything from responsive web applications to automation tools. Currently focused on:
+- 🌐 Web Development with JavaScript
+- 🎨 Creating beautiful UIs with CSS
+- 🤖 Building automation tools with Python
+- 📝 Writing technical tutorials and documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+```javascript
+const myTechStack = {
+    languages: ['JavaScript', 'Typescript', 'Python', 'CSS', 'HTML'],
+    frameworks: ['Next.js', 'Node.js', 'Flask'],
+    tools: ['Git', 'VSCode', 'PyAutoGUI'],
+};
+```
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMAMazing&theme=radical" alt="GitHub Streak Stats" />
+</div>
+
+
+## 📫 Let's Connect!
+Feel free to reach out
