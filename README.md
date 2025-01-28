@@ -33,7 +33,18 @@ Here are some of my projects that are currently live:
 - **Buy Me a Boba**: A fun way to support my work by buying me boba!  
   [https://www.buymeaboba.com/](https://www.buymeaboba.com/)
 
+## 🏆 LLM Leaderboard
 
+My personal LLM Leaderboard which gives my current overall ranking of LLMs given factors such pricing, performance and usability (uptime and speed).
+
+| Rank | AI Model                                                                                                                                                                                                                                        | Strengths                                                                | Weaknesses                                                                                                                                                         |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | <img src="https://img.shields.io/badge/Claude--Sonnet3.5-cc7c5e?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 3.5" />                                                                                                         | - Supports images & computer use. <br>- Smartest non reasoning LLM. <br> | - High cost API usage                                                                                                                                              |
+| 2    | <img src="https://img.shields.io/badge/Gemini--1206-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini 1206" />                                                                                                                | - Practically free <br>- Best for writing tasks                          | - Worst performing LLM for coding                                                                                                                                  |
+| 3    | <img src="https://img.shields.io/badge/GPT--O1-4b9f82?style=for-the-badge&logo=openai&logoColor=white" alt="GPT O1" />                                                                                                                          | - Best performing LLM for Coding                                         | - Extremely High Cost API <br>- Very limited web use even with paid account <br>- Extremely suspicious wistleblower "suicide" <br>- Ethically questionable company |
+| 4    | <img src="https://img.shields.io/badge/DeepSeek--R1-5c72f5?style=for-the-badge&logo=&logoColor=white" alt="DeepSeek" /> <img src="https://img.shields.io/badge/DeepSeek--V3-5c72f5?style=for-the-badge&logo=&logoColor=white" alt="DeepSeek" /> | - Open source<br>- Practically free<br>- 2nd best performing LLM         | - Fails to work on decently sized prompts due to high server traffic <br>- When it does work it takes an eternity to respond                                       |
+
+P
 
 ## 📊 GitHub & LeetCode Stats
 <div align="center">
