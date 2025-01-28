@@ -1,13 +1,16 @@
 # 👋 Hi there, I'm AMAMazing! 
+
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6EC7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;CSS+Enthusiast;NextJS+Enthusiast;Python+Automation+Expert;FFmpeg+Wizard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6EC7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;CSS+Enthusiast;NextJS+Enthusiast;Python+Automation+Expert;FFmpeg+Wizard;AI/LLM Expert" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 I'm passionate about creating elegant solutions through code. My journey involves crafting everything from responsive web applications to automation tools.
 
 Currently focused on:
-- 🌐 Web Development with JavaScript
+- 🖋️ Developing AI & LLM tools
+- 🌐 Web Development with NextJS
 - 🎨 Creating beautiful UIs with CSS
 - 🤖 Building automation tools with Python
 - 🎥 Automating video creation with FFmpeg
@@ -29,6 +32,8 @@ Here are some of my projects that are currently live:
 
 - **Buy Me a Boba**: A fun way to support my work by buying me boba!  
   [https://www.buymeaboba.com/](https://www.buymeaboba.com/)
+
+
 
 ## 📊 GitHub & LeetCode Stats
 <div align="center">
