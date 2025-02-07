@@ -46,7 +46,12 @@ My personal LLM Leaderboard ranking AI models based on factors such as pricing, 
 
 ## 📊 GitHub & LeetCode Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-ehy8p368m-amamazings-projects.vercel.app?user=AMAMazing&theme=ocean-gradient&background=45%2C00B6EB%2CB100EB)](https://git.io/streak-stats)
+<div align="center">
+  <!-- Githubs Stats Card -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AMAMazing&theme=ocean-gradient&background=45%2C00B6EB%2CB100EB" alt="Github Stats" />
+  </a>
+</div>
 
 <div align="center">
   <!-- LeetCode Stats Card -->
