@@ -24,15 +24,6 @@ const myTechStack = {
 };
 ```
 
-## 🌐 My Websites
-Here are some of my projects that are currently live:
-
-- **Thai Learning App**: A platform to learn Thai language effectively.  
-  [https://thailang.vercel.app/](https://thailang.vercel.app/)
-
-- **Buy Me a Boba**: A fun way to support my work by buying me boba!  
-  [https://www.buymeaboba.com/](https://www.buymeaboba.com/)
-
 ## 🏆 LLM Leaderboard  
 
 My personal LLM Leaderboard ranking AI models based on factors such as pricing, usability (uptime and speed), and general versatility.
@@ -59,6 +50,35 @@ My personal LLM Leaderboard ranking AI models based on factors such as pricing, 
     <img src="https://leetcard.jacoblin.cool/AMAMazing?theme=dark&font=Fira%20Code&ext=heatmap&border=30363D&background=0D1117&radius=16" alt="LeetCode Stats" />
   </a>
 </div>
+
+# 🌍 Things I've Built
+
+## 🌐 Websites
+
+- **Thai Learning App**: A platform to learn Thai language effectively.  
+  [https://thailang.vercel.app/](https://thailang.vercel.app/)
+
+- **Buy Me a Boba**: A fun way to support my work by buying me boba!  
+  [https://www.buymeaboba.com/](https://www.buymeaboba.com/)
+
+## 🐍 Python Packages
+
+- **Optimisewait**: A Python utility for automated image detection and clicking.  
+  [https://pypi.org/project/optimisewait/](https://pypi.org/project/optimisewait/)
+
+- **Talktollm**: Python library for using web interfaces with LLMs (Deepseek and Gemini).   
+  [https://pypi.org/project/talktollm/](https://pypi.org/project/talktollm/)
+
+## 🪽 Chrome Extensions
+
+Coming soon!
+
+
+## 📱 Apps
+
+Coming soon!
+
+
 
 ---
 
