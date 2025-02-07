@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm AMAMazing! 
 
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6EC7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;CSS+Enthusiast;NextJS+Enthusiast;Python+Automation+Expert;FFmpeg+Wizard;AI/LLM+Expert" alt="Typing SVG" />
 </div>
@@ -16,7 +15,8 @@ Currently focused on:
 - 🎥 Automating video creation with FFmpeg
 
 ## 🛠️ Technologies & Tools
-```javascript
+```
+javascript
 const myTechStack = {
     languages: ['JavaScript', 'TypeScript', 'Python', 'CSS', 'HTML'],
     frameworks: ['Next.js', 'Node.js', 'Flask'],
@@ -33,16 +33,16 @@ Here are some of my projects that are currently live:
 - **Buy Me a Boba**: A fun way to support my work by buying me boba!  
   [https://www.buymeaboba.com/](https://www.buymeaboba.com/)
 
-## 🏆 LLM Leaderboard
+## 🏆 LLM Leaderboard  
 
-My personal LLM Leaderboard which gives my current overall ranking of LLMs given factors such pricing, performance and usability (uptime and speed).
+My personal LLM Leaderboard ranking AI models based on factors such as pricing, usability (uptime and speed), and general versatility.
 
-| Rank | AI Model                                                                                                                                                                                                                                        | Strengths                                                                | Weaknesses                                                                                                                                                         |
-|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    | <img src="https://img.shields.io/badge/Claude--Sonnet3.5-cc7c5e?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 3.5" />                                                                                                         | - Supports images & computer use. <br>- Smartest non reasoning LLM. <br> | - High cost API usage                                                                                                                                              |
-| 2    | <img src="https://img.shields.io/badge/Gemini--1206-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini 1206" />                                                                                                                | - Practically free <br>- Best for writing tasks                          | - Worst performing LLM for coding                                                                                                                                  |
-| 3    | <img src="https://img.shields.io/badge/GPT--O1-4b9f82?style=for-the-badge&logo=openai&logoColor=white" alt="GPT O1" />                                                                                                                          | - Best performing LLM for Coding                                         | - Extremely High Cost API <br>- Very limited web use even with paid account <br>- Extremely suspicious wistleblower "suicide" <br>- Ethically questionable company |
-| 4    | <img src="https://img.shields.io/badge/DeepSeek--R1-5c72f5?style=for-the-badge&logo=&logoColor=white" alt="DeepSeek" /> <img src="https://img.shields.io/badge/DeepSeek--V3-5c72f5?style=for-the-badge&logo=&logoColor=white" alt="DeepSeek" /> | - Open source<br>- Practically free<br>- 2nd best performing LLM         | - Fails to work on decently sized prompts due to high server traffic <br>- When it does work it takes an eternity to respond                                       |
+| Rank | AI Model                                                                                                                                                                                                                                     | Strengths                                   | Weaknesses                                                                                                                                                         |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | <img src="https://img.shields.io/badge/Gemini--2.0--Pro--Exp-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini 2.0 Pro Exp" />                                                                                            | - Practically free                         |                                                                                                                                                                    |
+| 2    | <img src="https://img.shields.io/badge/Claude--Sonnet3.5-cc7c5e?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 3.5" />                                                                                                    | - Supports images & computer use.          | - High cost API usage                                                                                                                                             |
+| 3    | <img src="https://img.shields.io/badge/ChatGPT-4b9f82?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />                                                                                                                     |                                             | - High cost API usage <br>- Very limited web use even with paid account <br>- Extremely suspicious whistleblower "suicide" <br>- Ethically questionable company |
+| 4    | <img src="https://img.shields.io/badge/DeepSeek--R1-5c72f5?style=for-the-badge&logo=&logoColor=white" alt="DeepSeek" /> <img src="https://img.shields.io/badge/DeepSeek--V3-5c72f5?style=for-the-badge&logo=&logoColor=white" alt="DeepSeek" /> | - Open source & low cost                   | - Fails to work on decently sized prompts due to high server traffic <br>- When it does work, it takes an eternity to respond                                       |
 
 ## 📊 GitHub & LeetCode Stats
 <div align="center">
