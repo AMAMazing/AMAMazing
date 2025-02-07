@@ -45,6 +45,7 @@ My personal LLM Leaderboard ranking AI models based on factors such as pricing, 
 | 4    | <img src="https://img.shields.io/badge/DeepSeek--R1-5c72f5?style=for-the-badge&logo=&logoColor=white" alt="DeepSeek" /> <img src="https://img.shields.io/badge/DeepSeek--V3-5c72f5?style=for-the-badge&logo=&logoColor=white" alt="DeepSeek" /> | - Open source & low cost                   | - Fails to work on decently sized prompts due to high server traffic <br>- When it does work, it takes an eternity to respond                                       |
 
 ## 📊 GitHub & LeetCode Stats
+
 [![GitHub Streak](https://github-readme-streak-stats-ehy8p368m-amamazings-projects.vercel.app?user=AMAMazing&theme=ocean-gradient&background=45%2C00B6EB%2CB100EB)](https://git.io/streak-stats)
 
 <div align="center">
