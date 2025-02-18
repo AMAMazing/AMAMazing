@@ -36,6 +36,10 @@ Currently focused on:
 
 Coming soon!
 
+## 👨‍💻 VSCode Extensions 
+
+Coming soon!
+
 
 ## 📱 Apps
 
