@@ -34,7 +34,7 @@ Currently focused on:
 
 ## 🪽 Chrome Extensions
 
-Coming soon!
+Coming soon! (Awaiting review)
 
 ## 👨‍💻 VSCode Extensions 
 
