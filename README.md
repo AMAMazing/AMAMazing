@@ -10,6 +10,7 @@ I'm passionate about creating elegant solutions through code. My journey involve
 Currently focused on:
 - 🖋️ Developing AI & LLM tools
 - 🌐 Web Development with NextJS
+- 📱 App Development with Expo
 - 🎨 Creating beautiful UIs with CSS
 - 🤖 Building automation tools with Python
 - 🎥 Automating video creation with FFmpeg
