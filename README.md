@@ -50,8 +50,8 @@ Coming soon!
 ```
 javascript
 const myTechStack = {
-    languages: ['JavaScript', 'TypeScript', 'Python', 'CSS', 'HTML'],
-    frameworks: ['Next.js', 'Node.js', 'Flask'],
+    languages: ['JavaScript', 'TypeScript', 'Python', 'CSS'],
+    frameworks: ['Next.js', 'Expo', 'Flask'],
     tools: ['Git', 'VSCode', 'PyAutoGUI', 'FFmpeg'],
 };
 ```
