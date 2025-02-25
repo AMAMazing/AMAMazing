@@ -36,7 +36,8 @@ Currently focused on:
 
 ## 🪽 Chrome Extensions
 
-Coming soon! (Awaiting review)
+- **Gemini Copy Button Mover**: Moves the copy rendered button to next to the like and dislike buttons on Google AI Studio
+  [https://chromewebstore.google.com/detail/gemini-copy-button-mover/dhoblhgambngmgkijdjlgacgmeeeienm](https://chromewebstore.google.com/detail/gemini-copy-button-mover/dhoblhgambngmgkijdjlgacgmeeeienm)
 
 ## 👨‍💻 VSCode Extensions 
 
