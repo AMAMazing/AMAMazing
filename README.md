@@ -40,7 +40,8 @@ Coming soon! (Awaiting review)
 
 ## 👨‍💻 VSCode Extensions 
 
-Coming soon!
+- **Codespace Assistant**: A VSCode sidebar extension to let you code easier with GitHub codespaces
+  [https://marketplace.visualstudio.com/items?itemName=AMAMazing.codespace-assistant](https://marketplace.visualstudio.com/items?itemName=AMAMazing.codespace-assistant)
 
 
 ## 📱 Apps
