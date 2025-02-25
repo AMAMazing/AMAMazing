@@ -5,7 +5,8 @@
 </div>
 
 # 🚀 About Me
-I'm passionate about creating elegant solutions through code. My journey involves crafting everything from responsive web applications to automation tools.
+I'm an independent programmer and entrepreneur passionate about crafting elegant solutions through code. I specialize in developing AI tools, automation scripts, and web applications that enhance productivity and efficiency.
+
 
 Currently focused on:
 - 🖋️ Developing AI & LLM tools
