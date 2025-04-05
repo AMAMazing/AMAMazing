@@ -33,6 +33,9 @@ Currently focused on:
 
 - **Talktollm**: Python library for using web interfaces with LLMs (Deepseek and Gemini).   
   [https://pypi.org/project/talktollm/](https://pypi.org/project/talktollm/)
+  
+- **Pacetype**: Type text and emojis character-by-character using clipboard paste.
+  [https://pypi.org/project/pacetype/](https://pypi.org/project/pacetype/)
 
 ## 🪽 Chrome Extensions
 
