@@ -37,6 +37,9 @@ Currently focused on:
 - **Pacetype**: Type text and emojis character-by-character using clipboard paste.    
   [https://pypi.org/project/pacetype/](https://pypi.org/project/pacetype/)
 
+- **Smartpaste**: Paste anything, reliably. This Python library uses the system clipboard for cross-platform (Win/Mac/Linux) text input, ensuring emojis and complex characters work correctly. Automatically saves/restores clipboard. Ideal for GUI automation.
+  [https://pypi.org/project/smartpaste/](https://pypi.org/project/smartpaste/)
+
 ## 🪽 Chrome Extensions
 
 - **Gemini Copy Button Mover**: Moves the copy rendered button to next to the like and dislike buttons on Google AI Studio
