@@ -26,6 +26,9 @@ Currently focused on:
 - **Buy Me a Boba**: A fun way to support my work by buying me boba!  
   [https://www.buymeaboba.com/](https://www.buymeaboba.com/)
 
+- **DJ Malona**: Biotool for one client that has categories unlike other biotools.
+  [https://www.djmalona.com/](https://www.djmalona.com/)
+
 ## 🐍 Python Packages
 
 - **Optimisewait**: A Python utility for automated image detection and clicking.  
