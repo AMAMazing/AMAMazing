@@ -51,11 +51,11 @@ Currently focused on:
 - **Cline X Remote**: Run cline x on your computer and use remotely via an API.  
   [https://github.com/AMAMazing/cline-x-remote](https://github.com/AMAMazing/cline-x-remote)
 
-- **Cline X Voice**: Use cline solely with your voice by chatting with it. Cline x uses AI Studio, making it entirely free with the tradeoff being a longer response time. (Coming soon!)  
+<!--- **Cline X Voice**: Use cline solely with your voice by chatting with it. Cline x uses AI Studio, making it entirely free with the tradeoff being a longer response time. (Coming soon!)  
   [https://github.com/AMAMazing/cline-x-voice](https://github.com/AMAMazing/cline-x-voice)
 
 - **Cline X Mobile**: Be able to use cline x manually on mobile (made specifically for GitHub Codespaces). This project is currently inactive. If you're interested in seeing it revived and functional, please let me know!  
-  [https://github.com/AMAMazing/cline-x-mobile](https://github.com/AMAMazing/cline-x-mobile)
+  [https://github.com/AMAMazing/cline-x-mobile](https://github.com/AMAMazing/cline-x-mobile)-->
 
 ## 🪽 Chrome Extensions
 
