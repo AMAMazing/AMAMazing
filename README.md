@@ -71,6 +71,10 @@ Currently focused on:
 
 Coming soon!
 
+## 🚀 Other Projects 
+
+Coming soon!
+
 # 🛠️ Technologies & Tools
 ```javascript
 const myTechStack = {
