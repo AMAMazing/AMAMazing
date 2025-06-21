@@ -67,13 +67,14 @@ Currently focused on:
 - **Codespace Assistant**: A VSCode sidebar extension to let you code easier with GitHub codespaces
   [https://marketplace.visualstudio.com/items?itemName=AMAMazing.codespace-assistant](https://marketplace.visualstudio.com/items?itemName=AMAMazing.codespace-assistant)
 
-## 📱 Apps
-
-Coming soon!
-
 ## 🚀 Other Projects 
 
-Coming soon!
+Filling out this section soon!
+
+## 📱 Apps
+
+Coming one day
+
 
 # 🛠️ Technologies & Tools
 ```javascript
