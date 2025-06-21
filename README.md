@@ -73,7 +73,7 @@ Filling out this section soon!
 
 ## 📱 Apps
 
-Coming one day
+Coming one day (Aiming for before 2026)
 
 
 # 🛠️ Technologies & Tools
