@@ -31,17 +31,33 @@ Currently focused on:
 
 ## 🐍 Python Packages
 
+- **Talktollm**: Python library for using web interfaces with LLMs (Deepseek and Gemini).   
+  [https://pypi.org/project/talktollm/](https://pypi.org/project/talktollm/)    
+
+[![PyPI Downloads](https://static.pepy.tech/badge/talktollm)](https://pepy.tech/projects/talktollm)
+[![PyPI version](https://badge.fury.io/py/talktollm.svg)](https://badge.fury.io/py/talktollm)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 - **Optimisewait**: A Python utility for automated image detection and clicking.  
   [https://pypi.org/project/optimisewait/](https://pypi.org/project/optimisewait/)
 
-- **Talktollm**: Python library for using web interfaces with LLMs (Deepseek and Gemini).   
-  [https://pypi.org/project/talktollm/](https://pypi.org/project/talktollm/)
+[![PyPI Downloads](https://static.pepy.tech/badge/optimisewait)](https://pepy.tech/projects/optimisewait)
+[![PyPI version](https://badge.fury.io/py/optimisewait.svg)](https://badge.fury.io/py/optimisewait)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 - **Pacetype**: Type text and emojis character-by-character using clipboard paste.    
-  [https://pypi.org/project/pacetype/](https://pypi.org/project/pacetype/)
+  [https://pypi.org/project/pacetype/](https://pypi.org/project/pacetype/)    
+
+[![PyPI Downloads](https://static.pepy.tech/badge/pacetype)](https://pepy.tech/projects/pacetype)
+[![PyPI version](https://badge.fury.io/py/pacetype.svg)](https://badge.fury.io/py/pacetype)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - **Smartpaste**: Paste anything, reliably. This Python library uses the system clipboard for cross-platform (Win/Mac/Linux) text input, ensuring emojis and complex characters work correctly. Automatically saves/restores clipboard. Ideal for GUI automation.         
-  [https://pypi.org/project/smartpaste/](https://pypi.org/project/smartpaste/)
+  [https://pypi.org/project/smartpaste/](https://pypi.org/project/smartpaste/)    
+
+[![PyPI Downloads](https://static.pepy.tech/badge/smartpaste)](https://pepy.tech/projects/smartpaste)
+[![PyPI version](https://badge.fury.io/py/smartpaste.svg)](https://badge.fury.io/py/smartpaste)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🤖 Cline X Projects
 
