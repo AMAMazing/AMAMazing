@@ -62,6 +62,9 @@ Currently focused on:
 - **Gemini Copy Button Mover**: Moves the copy rendered button to next to the like and dislike buttons on Google AI Studio
   [https://chromewebstore.google.com/detail/gemini-copy-button-mover/dhoblhgambngmgkijdjlgacgmeeeienm](https://chromewebstore.google.com/detail/gemini-copy-button-mover/dhoblhgambngmgkijdjlgacgmeeeienm)
 
+  - **Google Keep Tab Titles**: Dynamically updates Google Keep tab titles to the current note's title. (Awaiting review)
+  [https://github.com/AMAMazing/google-keep-tab-titles](https://github.com/AMAMazing/google-keep-tab-titles)
+
 ## 👨‍💻 VSCode Extensions 
 
 - **Codespace Assistant**: A VSCode sidebar extension to let you code easier with GitHub codespaces
