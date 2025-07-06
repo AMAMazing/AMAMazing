@@ -20,6 +20,9 @@ Currently focused on:
 
 ## 🌐 Websites
 
+- **My Daily To Do**: Your main dashboard for managing daily tasks. Track your wake-up goal, view your daily score, and organize tasks by sections.      
+  [https://www.mydailytodo.com/](https://www.mydailytodo.com/)
+
 - **Thai Learning App**: A platform to learn Thai language effectively.  
   [https://thailang.vercel.app/](https://thailang.vercel.app/)
 
