@@ -91,7 +91,8 @@ Currently focused on:
 
 ## 🚀 Other Projects 
 
-Filling out this section soon!
+- **Spotify Song Search**: A simple desktop application built with Python and PyQt6 that allows you to search for songs using the Spotify API, select your favorites, and save them to a local tracks.json file.
+  [https://github.com/AMAMazing/spotify-py-search](https://github.com/AMAMazing/spotify-py-search)
 
 ## 📱 Apps
 
