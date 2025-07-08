@@ -98,6 +98,7 @@ Currently focused on:
 
 Coming one day (Aiming for before 2026)
 
+<!-- Want to add My Daily To Do & Thailang here -->
 
 # 🛠️ Technologies & Tools
 ```javascript
