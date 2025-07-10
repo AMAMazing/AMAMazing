@@ -5,7 +5,7 @@
 </div>
 
 # 🚀 About Me
-I'm an independent programmer and entrepreneur passionate about crafting elegant solutions through code. I specialize in developing AI tools, automation scripts, and web applications that enhance productivity and efficiency.
+I'm an independent programmer, freelancer and entrepreneur passionate about crafting elegant solutions through code. I specialize in developing AI tools, automation scripts, and web applications that enhance productivity and efficiency.
 
 
 Currently focused on:
