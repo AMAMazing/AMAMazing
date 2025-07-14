@@ -60,6 +60,8 @@ Currently focused on:
 
 - **Smartzoom**: A Python utility to automatically apply a smooth, continuous zoom to a video, perfectly framing its content.  
 
+[https://pypi.org/project/smartzoom/](https://pypi.org/project/smartzoom/)    
+
 [![PyPI Downloads](https://static.pepy.tech/badge/smartzoom)](https://pepy.tech/projects/smartzoom)
 [![PyPI version](https://badge.fury.io/py/smartzoom.svg)](https://badge.fury.io/py/smartzoom)
 
