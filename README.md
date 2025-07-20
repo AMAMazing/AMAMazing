@@ -52,17 +52,18 @@ Currently focused on:
 [![PyPI Downloads](https://static.pepy.tech/badge/pacetype)](https://pepy.tech/projects/pacetype)
 [![PyPI version](https://badge.fury.io/py/pacetype.svg)](https://badge.fury.io/py/pacetype)
 
+- **Smartzoom**: A Python utility to automatically apply a smooth, continuous zoom to a video, perfectly framing its content.  
+    [https://pypi.org/project/smartzoom/](https://pypi.org/project/smartzoom/)    
+
+[![PyPI Downloads](https://static.pepy.tech/badge/smartzoom)](https://pepy.tech/projects/smartzoom)
+[![PyPI version](https://badge.fury.io/py/smartzoom.svg)](https://badge.fury.io/py/smartzoom)
+
 - **Smartpaste**: Paste anything, reliably. This Python library uses the system clipboard for cross-platform (Win/Mac/Linux) text input, ensuring emojis and complex characters work correctly. Automatically saves/restores clipboard. Ideal for GUI automation.         
   [https://pypi.org/project/smartpaste/](https://pypi.org/project/smartpaste/)    
 
 [![PyPI Downloads](https://static.pepy.tech/badge/smartpaste)](https://pepy.tech/projects/smartpaste)
 [![PyPI version](https://badge.fury.io/py/smartpaste.svg)](https://badge.fury.io/py/smartpaste)
 
-- **Smartzoom**: A Python utility to automatically apply a smooth, continuous zoom to a video, perfectly framing its content.  
-    [https://pypi.org/project/smartzoom/](https://pypi.org/project/smartzoom/)    
-
-[![PyPI Downloads](https://static.pepy.tech/badge/smartzoom)](https://pepy.tech/projects/smartzoom)
-[![PyPI version](https://badge.fury.io/py/smartzoom.svg)](https://badge.fury.io/py/smartzoom)
 
 ## 🤖 Cline X Projects
 
