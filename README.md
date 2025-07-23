@@ -32,8 +32,7 @@ Currently focused on:
 - **DJ Malona**: Biotool for one client that has categories unlike other biotools.      
   [https://www.djmalona.com/](https://www.djmalona.com/)
 
-- **I got alot of photos**: This project is a complete visual and functional redesign of [Johanz's](https://github.com/johanz043) original igotalotofphotos-v3 website. The goal was to create a modern, professional, and immersive user experience.
-
+- **I got alot of photos**: This project is a complete visual and functional redesign of [Johanz's](https://github.com/johanz043) original igotalotofphotos-v3 website. The goal was to create a modern, professional, and immersive user experience.       
   [https://amamazing.github.io/igotalotofphotos-v3/](https://amamazing.github.io/igotalotofphotos-v3/)
 
 ## 🐍 Python Packages
@@ -71,10 +70,10 @@ Currently focused on:
 
 ## 🤖 Cline X Projects
 
-- **Cline X Local**: Limit your monthly cline costs with cline x.  
+- **Cline X Local**: Limit your monthly cline costs with cline x. (Now with a nice web interface!)      
   [https://github.com/AMAMazing/cline-x](https://github.com/AMAMazing/cline-x)
 
-- **Cline X Remote**: Run cline x on your computer and use remotely via an API.  
+- **Cline X Remote**: Run cline x on your computer and use remotely via an API. (Now can be installed via an executable!)      
   [https://github.com/AMAMazing/cline-x-remote](https://github.com/AMAMazing/cline-x-remote)
 
 <!--- **Cline X Voice**: Use cline solely with your voice by chatting with it. Cline x uses AI Studio, making it entirely free with the tradeoff being a longer response time. (Coming soon!)  
