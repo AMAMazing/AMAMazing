@@ -32,7 +32,7 @@ Currently focused on:
 - **DJ Malona**: Biotool for one client that has categories unlike other biotools.      
   [https://www.djmalona.com/](https://www.djmalona.com/)
 
-- **I Got Alot of Photos**: This project is a complete visual and functional redesign of [Johanz's](https://github.com/johanz043) original igotalotofphotos-v3 website. The goal was to create a modern, professional, and immersive user experience.
+- **I got alot of photos**: This project is a complete visual and functional redesign of [Johanz's](https://github.com/johanz043) original igotalotofphotos-v3 website. The goal was to create a modern, professional, and immersive user experience.
 
   [https://amamazing.github.io/igotalotofphotos-v3/](https://amamazing.github.io/igotalotofphotos-v3/)
 
