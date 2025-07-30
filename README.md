@@ -92,6 +92,9 @@ Currently focused on:
 
 ## 👨‍💻 VSCode Extensions 
 
+- **Sidebar Snippets**: A VS Code extension for keeping a persistent list of code snippets in your sidebar, ready to be copied with a single click.
+  [https://marketplace.visualstudio.com/items?itemName=AMAMazing.sidebar-snippets](https://marketplace.visualstudio.com/items?itemName=AMAMazing.sidebar-snippets)
+
 - **Codespace Assistant**: A VSCode sidebar extension to let you code easier with GitHub codespaces
   [https://marketplace.visualstudio.com/items?itemName=AMAMazing.codespace-assistant](https://marketplace.visualstudio.com/items?itemName=AMAMazing.codespace-assistant)
 
