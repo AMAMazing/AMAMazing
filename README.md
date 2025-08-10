@@ -90,6 +90,9 @@ Currently focused on:
 - **Google Keep Tab Titles**: Dynamically updates Google Keep tab titles to the current note's title. 
   [https://chromewebstore.google.com/detail/google-keep-tab-titles/gecielikdjnhofjhodleiifihoolceij](https://chromewebstore.google.com/detail/google-keep-tab-titles/gecielikdjnhofjhodleiifihoolceij)
 
+- **Minesweeper Fullscreen Button**:  Adds a responsive fullscreen button to the Google Search Minesweeper game.       
+  [https://chromewebstore.google.com/detail/google-keep-tab-titles/gecielikdjnhofjhodleiifihoolceij](https://chromewebstore.google.com/detail/google-keep-tab-titles/gecielikdjnhofjhodleiifihoolceij)
+
 ## 👨‍💻 VSCode Extensions 
 
 - **Sidebar Snippets**: A VS Code extension for keeping a persistent list of code snippets in your sidebar, ready to be copied with a single click.    
