@@ -20,6 +20,9 @@ Currently focused on:
 
 ## 🌐 Websites
 
+- **Coin Flip Chess**: A chaotic chess variant where every turn is decided by a 50/50 coin flip. Forget checkmate, the only way to win is to capture the enemy king.            
+  [https://coin-flip-chess.vercel.app/](https://coin-flip-chess.vercel.app/)
+
 - **My Daily To Do**: Your main dashboard for managing daily tasks. Track your wake-up goal, view your daily score, and organize tasks by sections.      
   [https://www.mydailytodo.com/](https://www.mydailytodo.com/)
 
