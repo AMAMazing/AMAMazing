@@ -106,8 +106,12 @@ Currently focused on:
 
 ## 🚀 Other Projects 
 
-- **Spotify Song Search**: A simple desktop application built with Python and PyQt6 that allows you to search for songs using the Spotify API, select your favorites, and save them to a local tracks.json file.      
+- **Leetcode Daily**: A Youtube channel regularly explaining Leetcode's daily challenge and solution.          
+  [https://www.youtube.com/@LeetcodeDaily-ama](https://www.youtube.com/@LeetcodeDaily-ama)
+  
+- **Spotify Song Search**: A simple desktop application built with Python and PyQt6 that allows you to search for songs using the Spotify API, select your favorites, and save them to a local tracks.json file.          
   [https://github.com/AMAMazing/spotify-py-search](https://github.com/AMAMazing/spotify-py-search)
+
 
 ## 📱 Apps
 
