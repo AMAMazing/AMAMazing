@@ -43,32 +43,32 @@ Currently focused on:
 - **Talktollm**: Python library for using web interfaces with LLMs (Deepseek and Gemini).   
   [https://pypi.org/project/talktollm/](https://pypi.org/project/talktollm/)    
 
-[![PyPI Downloads](https://static.pepy.tech/badge/talktollm)](https://pepy.tech/projects/talktollm)
-[![PyPI version](https://badge.fury.io/py/talktollm.svg)](https://badge.fury.io/py/talktollm)
+  [![PyPI Downloads](https://static.pepy.tech/badge/talktollm)](https://pepy.tech/projects/talktollm)
+  [![PyPI version](https://badge.fury.io/py/talktollm.svg)](https://badge.fury.io/py/talktollm)
 
 - **Optimisewait**: A Python utility for automated image detection and clicking.  
   [https://pypi.org/project/optimisewait/](https://pypi.org/project/optimisewait/)
 
-[![PyPI Downloads](https://static.pepy.tech/badge/optimisewait)](https://pepy.tech/projects/optimisewait)
-[![PyPI version](https://badge.fury.io/py/optimisewait.svg)](https://badge.fury.io/py/optimisewait)
+  [![PyPI Downloads](https://static.pepy.tech/badge/optimisewait)](https://pepy.tech/projects/optimisewait)
+  [![PyPI version](https://badge.fury.io/py/optimisewait.svg)](https://badge.fury.io/py/optimisewait)
   
 - **Pacetype**: Type text and emojis character-by-character using clipboard paste.    
   [https://pypi.org/project/pacetype/](https://pypi.org/project/pacetype/)    
 
-[![PyPI Downloads](https://static.pepy.tech/badge/pacetype)](https://pepy.tech/projects/pacetype)
-[![PyPI version](https://badge.fury.io/py/pacetype.svg)](https://badge.fury.io/py/pacetype)
+  [![PyPI Downloads](https://static.pepy.tech/badge/pacetype)](https://pepy.tech/projects/pacetype)
+  [![PyPI version](https://badge.fury.io/py/pacetype.svg)](https://badge.fury.io/py/pacetype)
 
 - **Smartzoom**: A Python utility to automatically apply a smooth, continuous zoom to a video, perfectly framing its content.  
     [https://pypi.org/project/smartzoom/](https://pypi.org/project/smartzoom/)    
 
-[![PyPI Downloads](https://static.pepy.tech/badge/smartzoom)](https://pepy.tech/projects/smartzoom)
-[![PyPI version](https://badge.fury.io/py/smartzoom.svg)](https://badge.fury.io/py/smartzoom)
+  [![PyPI Downloads](https://static.pepy.tech/badge/smartzoom)](https://pepy.tech/projects/smartzoom)
+  [![PyPI version](https://badge.fury.io/py/smartzoom.svg)](https://badge.fury.io/py/smartzoom)
 
 - **Smartpaste**: Paste anything, reliably. This Python library uses the system clipboard for cross-platform (Win/Mac/Linux) text input, ensuring emojis and complex characters work correctly. Automatically saves/restores clipboard. Ideal for GUI automation.         
   [https://pypi.org/project/smartpaste/](https://pypi.org/project/smartpaste/)    
 
-[![PyPI Downloads](https://static.pepy.tech/badge/smartpaste)](https://pepy.tech/projects/smartpaste)
-[![PyPI version](https://badge.fury.io/py/smartpaste.svg)](https://badge.fury.io/py/smartpaste)
+  [![PyPI Downloads](https://static.pepy.tech/badge/smartpaste)](https://pepy.tech/projects/smartpaste)
+  [![PyPI version](https://badge.fury.io/py/smartpaste.svg)](https://badge.fury.io/py/smartpaste)
 
 
 ## 🤖 Cline X Projects
@@ -108,6 +108,8 @@ Currently focused on:
 
 - **Leetcode Daily**: A Youtube channel regularly explaining Leetcode's daily challenge and solution.          
   [https://www.youtube.com/@LeetcodeDaily-ama](https://www.youtube.com/@LeetcodeDaily-ama)
+  
+  [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UChH72SgqSYeGvOMAFij2JMg?style=social)](https://www.youtube.com/channel/UChH72SgqSYeGvOMAFij2JMg)
   
 - **Spotify Song Search**: A simple desktop application built with Python and PyQt6 that allows you to search for songs using the Spotify API, select your favorites, and save them to a local tracks.json file.          
   [https://github.com/AMAMazing/spotify-py-search](https://github.com/AMAMazing/spotify-py-search)
