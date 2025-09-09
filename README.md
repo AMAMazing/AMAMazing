@@ -110,6 +110,9 @@ Currently focused on:
   [https://www.youtube.com/@LeetcodeDaily-ama](https://www.youtube.com/@LeetcodeDaily-ama)
   
   [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UChH72SgqSYeGvOMAFij2JMg?style=social)](https://www.youtube.com/channel/UChH72SgqSYeGvOMAFij2JMg)
+
+- **YT-Playlist-From-Tags**: A Python GUI tool for YouTube creators to automatically create playlists from their most-used video tags.          
+  [https://www.youtube.com/channel/UChH72SgqSYeGvOMAFij2JMg](https://github.com/AMAMazing/YT-Playlist-From-Tags)
   
 - **Spotify Song Search**: A simple desktop application built with Python and PyQt6 that allows you to search for songs using the Spotify API, select your favorites, and save them to a local tracks.json file.          
   [https://github.com/AMAMazing/spotify-py-search](https://github.com/AMAMazing/spotify-py-search)
