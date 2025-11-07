@@ -78,9 +78,7 @@ Paste anything, reliably. Cross-platform clipboard-based text input that handles
 
 ### Other Packages
 - **[Pacetype](https://pypi.org/project/pacetype/)** - Type text character-by-character using clipboard paste   
-![PyPI version](https://badge.fury.io/py/pacetype.svg)
 - **[Smartzoom](https://pypi.org/project/smartzoom/)** - Automatically apply smooth zoom to videos with FFmpeg
-![PyPI version](https://badge.fury.io/py/smartzoom.svg)
 
 ---
 
