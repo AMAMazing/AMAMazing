@@ -1,16 +1,16 @@
 # 👋 Hi there, I'm AMAMazing!
+<!-- hero: { "tagline": "Building tools that solve real problems—for myself and others." } -->
 
 <div align="center">
 
 [![Support Me](https://img.shields.io/badge/Support%20Me-Buy%20Me%20a%20Boba-ff69b4?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeaboba.com/)
-
-**Building tools that solve real problems—for myself and others.**
 
 </div>
 
 ---
 
 ## 🌍 Featured Projects
+<!-- nav: { "name": "Featured", "icon": "Rocket", "id": "featured" } -->
 
 **🎵 [FocusDJ](https://focusdj.vercel.app/)**
 <br>A beautiful Pomodoro timer with YouTube playlist integration. Features dynamic theming, customizable playlists, break activity suggestions, and persistent data storage. Your perfect study companion.
@@ -30,6 +30,7 @@
 ---
 
 ## 🛠️ Tech Stack
+<!-- nav: { "name": "Tech Stack", "icon": "Code2", "id": "tech-stack" } -->
 
 <div align="center">
   <a href="https://go-skill-icons.vercel.app/">
@@ -40,6 +41,7 @@
 ---
 
 ## 🌐 Web Applications
+<!-- nav: { "name": "Web Apps", "icon": "Globe", "id": "web-apps" } -->
 
 **♟️ [Coin Flip Chess](https://coin-flip-chess.vercel.app/)**
 <br>A chaotic chess variant where every turn is decided by a 50/50 coin flip. The only way to win is to capture the enemy king!
@@ -56,71 +58,67 @@
 ---
 
 ## 🐍 Python Packages
+<!-- nav: { "name": "Packages", "icon": "Box", "id": "packages" } -->
 
-**[Optimisewait](https://pypi.org/project/optimisewait/)**
+**📦 [Optimisewait](https://pypi.org/project/optimisewait/)**
 <br>Automated image detection and clicking utility—perfect for GUI automation.
 <br>
 [![PyPI Downloads](https://static.pepy.tech/badge/optimisewait)](https://pepy.tech/projects/optimisewait)
 [![PyPI version](https://badge.fury.io/py/optimisewait.svg)](https://badge.fury.io/py/optimisewait)
 
-**[Smartpaste](https://pypi.org/project/smartpaste/)**
+**📦 [Smartpaste](https://pypi.org/project/smartpaste/)**
 <br>Paste anything, reliably. Cross-platform clipboard-based text input that handles emojis and complex characters perfectly.
 <br>
 [![PyPI Downloads](https://static.pepy.tech/badge/smartpaste)](https://pepy.tech/projects/smartpaste)
 [![PyPI version](https://badge.fury.io/py/smartpaste.svg)](https://badge.fury.io/py/smartpaste)
 
 **Other Packages**
-- **[Pacetype](https://pypi.org/project/pacetype/)** - Type text character-by-character using clipboard paste
-- **[Smartzoom](https://pypi.org/project/smartzoom/)** - Automatically apply smooth zoom to videos with FFmpeg
+- **📦 [Pacetype](https://pypi.org/project/pacetype/)** - Type text character-by-character using clipboard paste
+- **📦 [Smartzoom](https://pypi.org/project/smartzoom/)** - Automatically apply smooth zoom to videos with FFmpeg
 
 ---
 
-## 🪽 Chrome Extensions
+## 🪽 Chrome Extensions & VSCode Extensions
+<!-- nav: { "name": "Extensions", "icon": "Chrome", "id": "extensions" } -->
+<!-- layout: "grid" -->
 
-**[Gemini Copy Button Mover](https://chromewebstore.google.com/detail/gemini-copy-button-mover/dhoblhgambngmgkijdjlgacgmeeeienm)**
-<br>Improves the Google AI Studio interface by repositioning the copy button for better accessibility.
+### Chrome
+- **🧩 [Gemini Copy Button Mover](https://chromewebstore.google.com/detail/gemini-copy-button-mover/dhoblhgambngmgkijdjlgacgmeeeienm)** - Improves the Google AI Studio interface by repositioning the copy button for better accessibility.
+- **🧩 [Google Keep Tab Titles](https://chromewebstore.google.com/detail/google-keep-tab-titles/gecielikdjnhofjhodleiifihoolceij)** - Dynamically updates Google Keep tab titles to match the current note's title.
+- **🧩 [Minesweeper Fullscreen Button](https://chromewebstore.google.com/detail/minesweeper-fullscreen-button/oejbciagdejboemjkdhgbmogmogoioip)** - Adds a responsive fullscreen button to the Google Search Minesweeper game.
 
-**[Google Keep Tab Titles](https://chromewebstore.google.com/detail/google-keep-tab-titles/gecielikdjnhofjhodleiifihoolceij)**
-<br>Dynamically updates Google Keep tab titles to match the current note's title.
-
-**[Minesweeper Fullscreen Button](https://chromewebstore.google.com/detail/minesweeper-fullscreen-button/oejbciagdejboemjkdhgbmogmogoioip)**
-<br>Adds a responsive fullscreen button to the Google Search Minesweeper game.
-
----
-
-## 👨‍💻 VSCode Extensions
-
-**[Sidebar Snippets](https://marketplace.visualstudio.com/items?itemName=AMAMazing.sidebar-snippets)**
-<br>Keep a persistent list of code snippets in your VS Code sidebar, ready to be copied with a single click.
-
-**[Codespace Assistant](https://marketplace.visualstudio.com/items?itemName=AMAMazing.codespace-assistant)**
-<br>A VS Code sidebar extension designed to make coding with GitHub Codespaces easier and more efficient.
+### VSCode
+- **📝 [Sidebar Snippets](https://marketplace.visualstudio.com/items?itemName=AMAMazing.sidebar-snippets)** - Keep a persistent list of code snippets in your VS Code sidebar, ready to be copied with a single click.
+- **📝 [Codespace Assistant](https://marketplace.visualstudio.com/items?itemName=AMAMazing.codespace-assistant)** - A VS Code sidebar extension designed to make coding with GitHub Codespaces easier and more efficient.
 
 ---
 
 ## 🚀 Other Projects
+<!-- section: "other" -->
 
-**[Leetcode Daily](https://www.youtube.com/@LeetcodeDaily-ama)**
+**▶️ [Leetcode Daily](https://www.youtube.com/@LeetcodeDaily-ama)**
 <br>YouTube channel where I regularly explain LeetCode's daily challenges with clear, step-by-step solutions.
 <br>
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UChH72SgqSYeGvOMAFij2JMg?style=social)](https://www.youtube.com/channel/UChH72SgqSYeGvOMAFij2JMg)
 
-**[YT-Playlist-From-Tags](https://github.com/AMAMazing/YT-Playlist-From-Tags)**
+**YT-Playlist-From-Tags](https://github.com/AMAMazing/YT-Playlist-From-Tags)**
 <br>Python GUI tool for YouTube creators to automatically create playlists based on their most-used video tags.
 
 **Additional Projects**
-- **[I got alot of photos](https://amamazing.github.io/igotalotofphotos-v3/)** - Modern redesign of Johanz's photo showcase
-- **[Spotify Song Search](https://github.com/AMAMazing/spotify-py-search/)** - Desktop app for searching and saving Spotify tracks
+- **🖼️ [I got alot of photos](https://amamazing.github.io/igotalotofphotos-v3/)** - Modern redesign of Johanz's photo showcase
+- **🎵 [Spotify Song Search](https://github.com/AMAMazing/spotify-py-search/)** - Desktop app for searching and saving Spotify tracks
 
 ---
 
 ## 📱 Mobile Apps
+<!-- nav: { "name": "Mobile", "icon": "Smartphone", "id": "mobile" } -->
 
 **Coming soon!** (Aiming for before 2026)
 
 ---
 
 ## 📊 GitHub & LeetCode Stats
+<!-- nav: { "name": "Stats", "icon": "TerminalSquare", "id": "stats" } -->
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
@@ -139,5 +137,7 @@
 <div align="center">
   
 **Building tools that matter.** ✨
+<br>
+© 2024 AMAMazing. All rights reserved.
 
 </div>
