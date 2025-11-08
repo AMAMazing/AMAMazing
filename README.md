@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm AMAMazing!
+# 👋 Hi there, I'm [AMAMazing](https://amamazing.dev)!
 <!-- hero: { "tagline": "Building tools that solve real problems—for myself and others." } -->
 
 <div align="center">
@@ -117,18 +117,12 @@
 
 ---
 
-## 📊 GitHub & LeetCode Stats
+## 📊 GitHub Stats
 <!-- nav: { "name": "Stats", "icon": "TerminalSquare", "id": "stats" } -->
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AMAMazing&theme=ocean-gradient&background=45%2C00B6EB%2CB100EB" alt="Github Stats" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://leetcode.com/u/AMAMazing" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/AMAMazing?theme=dark&font=Fira%20Code&ext=heatmap&border=30363D&background=0D1117&radius=16" alt="LeetCode Stats" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AMAMazing&theme=ocean-gradient&background=0B1121&border=1e293b" alt="Github Stats" />
   </a>
 </div>
 
