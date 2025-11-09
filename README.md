@@ -101,7 +101,7 @@
 <br>
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UChH72SgqSYeGvOMAFij2JMg?style=social)](https://www.youtube.com/channel/UChH72SgqSYeGvOMAFij2JMg)
 
-**YT-Playlist-From-Tags](https://github.com/AMAMazing/YT-Playlist-From-Tags)**
+**[YT-Playlist-From-Tags](https://github.com/AMAMazing/YT-Playlist-From-Tags)**
 <br>Python GUI tool for YouTube creators to automatically create playlists based on their most-used video tags.
 
 **Additional Projects**
