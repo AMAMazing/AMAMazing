@@ -63,7 +63,8 @@
 **👨‍💻 [VSCode Hub](https://github.com/AMAMazing/VSCode-Hub)**
 <br>A sleek, cross-platform GUI for quickly finding and launching your recent Visual Studio Code projects.
 
-**🎵 [DJ Playlist Sync](https://github.com/AMAMazing/DJ-Playlist-Sync)*DJ-Playlist-Sync desktop utility for DJs to manage cloud-based playlist metadata and organize local libraries. Features automated artist sorting, micro-playlists, and offline caching for personal archiving.
+**🎵 [DJ Playlist Sync](https://github.com/AMAMazing/DJ-Playlist-Sync)**
+<br>DJ-Playlist-Sync desktop utility for DJs to manage cloud-based playlist metadata and organize local libraries. Features automated artist sorting, micro-playlists, and offline caching for personal archiving.
 
 **📌 [Python Taskbar Pinner](https://github.com/AMAMazing/Python-Taskbar-Pinner)**
 <br>A Windows utility to create custom taskbar shortcuts for Python scripts, with the option to add your own image.
