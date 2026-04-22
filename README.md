@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm [AMAMazing](https://amamazing.dev)!
 
----
-
 ## 🌍 Featured Projects
 **✅ [My Daily To Do](https://www.mydailytodo.com/)**
 <br>Your main dashboard for managing daily tasks. Track your wake-up goal, view your daily score, and organize tasks by sections.
