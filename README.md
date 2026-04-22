@@ -1,9 +1,4 @@
 # 👋 Hi there, I'm [AMAMazing](https://amamazing.dev)!
-<div align="center">
-
-[![Support Me](https://img.shields.io/badge/Support%20Me-Buy%20Me%20a%20Boba-ff69b4?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeaboba.com/)
-
-</div>
 
 ---
 
