@@ -1,136 +1,119 @@
-# 👋 Hi there, I'm [AMAMazing](https://amamazing.dev)!
-
-## 🌍 Featured Projects
-**✅ [My Daily To Do](https://www.mydailytodo.com/)**
-<br>Your main dashboard for managing daily tasks. Track your wake-up goal, view your daily score, and organize tasks by sections.
-
-**🧋 [Buy Me a Boba](https://www.buymeaboba.com/)**
-<br>A fun and unique way to support my work—buy me boba instead of coffee!
-
-**▶️ [Leetcode Daily](https://www.youtube.com/@LeetcodeDaily-ama)**
-<br>YouTube channel where I regularly explain LeetCode's daily challenges with clear, step-by-step solutions.
-<br>
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UChH72SgqSYeGvOMAFij2JMg?style=social)](https://www.youtube.com/channel/UChH72SgqSYeGvOMAFij2JMg)
-
-**🇹🇭 [PolyPlaylist](https://thailang.vercel.app/)**
-<br>A comprehensive platform for sentence mining with multiple supported languages to learn effectively.
-
----
-
-## 🛠️ Tech Stack
 <div align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,py,react,nextjs,tailwind,expo,flask,vscode,figma,ffmpeg,vercel,gemini" />
-  </a>
+
+# ⚡ AMA Mazing
+
+
+[![Visit AMAMazing.dev](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-AMAMazing.dev-6366f1?style=for-the-badge&labelColor=0f172a)](https://www.amamazing.dev/)
+
+**9 Featured Flagships** • **21 Open Source Contributions**
+
+[🌟 Featured](#-featured-core-projects) • [🌐 Web Apps](#-web-applications) • [💻 Desktop](#-desktop-applications) • [🐍 PyPI](#-python-packages) • [🧩 Chrome Ext](#-chrome-extensions) • [💠 VS Code Ext](#-vs-code-extensions) • [📦 NPM](#-npm-packages) • [🔥 GitHub Stats & Streak](#-github-stats-streak)
+
 </div>
 
 ---
 
-## 🌐 Web Applications
-**🎵 [FocusDJ](https://focusdj.vercel.app/)**
-<br>A beautiful Pomodoro timer with YouTube playlist integration. Features dynamic theming, customizable playlists, break activity suggestions, and persistent data storage. Your perfect study companion.
+## 🌟 Featured Core Projects
 
-**♟️ [Coin Flip Chess](https://coin-flip-chess.vercel.app/)**
-<br>A chaotic chess variant where every turn is decided by a 50/50 coin flip. The only way to win is to capture the enemy king!
-
-**🎧 [DJ Malona](https://www.djmalona.com/)**
-<br>A custom biotool with categorized links, designed specifically for one client's unique needs.
-
----
-
-## 🖥️ Desktop Applications
-<!-- nav: { "name": "Desktop Apps", "icon": "TerminalSquare", "id": "desktop-apps" } -->
-
-**🤖 [Cline X](https://github.com/AMAMazing/cline-x)**
-<br>Flask-based API server bridging Cline with multiple AI models (Gemini, DeepSeek, AIStudio). Includes a modern web control panel, smart notifications, and secure remote access via ngrok.
-
-**👨‍💻 [VSCode Hub](https://github.com/AMAMazing/VSCode-Hub)**
-<br>A sleek, cross-platform GUI for quickly finding and launching your recent Visual Studio Code projects.
-
-**🎵 [DJ Playlist Sync](https://github.com/AMAMazing/DJ-Playlist-Sync)**
-<br>A desktop utility for synchronizing cloud-based playlist metadata with local DJ libraries. Features intelligent artist sorting, micro-playlist generation, and offline caching for personal archiving.
-
-**📌 [Python Taskbar Pinner](https://github.com/AMAMazing/Python-Taskbar-Pinner)**
-<br>A Windows utility to create custom taskbar shortcuts for Python scripts, with the option to add your own image.
+| Project | Category | Description |
+| :--- | :--- | :--- |
+| 🌐 [**Mindcontroller Studio**](https://mindcontroller.studio) | `Hospitality SaaS` | All-in-one modular digital OS & SaaS/WaaS ecosystem for modern cafes, hospitality, and independent retail. |
+| ☑️ [**My Daily To Do**](https://www.mydailytodo.com/) | `Productivity` | All-in-one daily operating system & task powerhouse for shift workers, creators, and indie hackers. |
+| 🔓 [**Leetcode Unlocked**](https://www.leetcodeunlocked.com/) | `Education & Ads` | Full Leetcode ecosystem with daily video solutions, unlocked editorial explanations, and algorithmic code walkthroughs. |
+| 🫧 [**Bubblegee**](https://bubblegee.com) | `Social Media` | Unified social-first creation network where users publish natively to feeds while exporting cross-platform short-form content. |
+| 🏟️ [**Wrestling Promotions**](https://wrestlingpromotions.com) | `Sports Media` | Dedicated wrestling encyclopedia: promotion histories, top weekly moments, spoiler-free cards, and viewing schedules. |
+| 🌲 [**Biolinkt**](https://www.djmalona.com/) | `Creator WaaS` | Custom link-tree and client booking engine connecting social media audiences to services, apps, and digital paywalls. |
+| 📐 [**WindowZones**](https://windowzones.com) | `Desktop Utility` | High-performance native Windows snapping and workspace tiling manager designed for power users. |
+| 🧋 [**Buy Me a Boba**](https://www.buymeaboba.com/) | `Monetization` | Clean tipping & micro-donation platform for creators with 1% penetration pricing, personalized URLs, and dynamic themes. |
+| ♟️ [**Coin Flip Chess**](https://coin-flip-chess.vercel.app/) | `Gaming & Ads` | Chaotic speed chess variant where every turn is decided by a 50/50 coin flip. King-take sudden death rules. |
 
 ---
 
-## 🐍 Python Packages
-<!-- nav: { "name": "Packages", "icon": "Box", "id": "packages" } -->
+## 🚀 Open Source Contributions (21)
 
-**🐍 [Talktollm](https://pypi.org/project/talktollm/)**
-<br>Python library for interacting with web-based LLM interfaces. Powers automation workflows with Deepseek and Gemini.
-<br>
-[![PyPI Downloads](https://static.pepy.tech/badge/talktollm)](https://pepy.tech/projects/talktollm)
-[![PyPI version](https://badge.fury.io/py/talktollm.svg)](https://badge.fury.io/py/talktollm)
+### 🌐 Web Applications
+> *Open-source browser utilities, transit systems, and game sandboxes*
 
-**📦 [Optimisewait](https://pypi.org/project/optimisewait/)**
-<br>Automated image detection and clicking utility—perfect for GUI automation.
-<br>
-[![PyPI Downloads](https://static.pepy.tech/badge/optimisewait)](https://pepy.tech/projects/optimisewait)
-[![PyPI version](https://badge.fury.io/py/optimisewait.svg)](https://badge.fury.io/py/optimisewait)
-
-**📦 [Smartpaste](https://pypi.org/project/smartpaste/)**
-<br>Paste anything, reliably. Cross-platform clipboard-based text input that handles emojis and complex characters perfectly.
-<br>
-[![PyPI Downloads](https://static.pepy.tech/badge/smartpaste)](https://pepy.tech/projects/smartpaste)
-[![PyPI version](https://badge.fury.io/py/smartpaste.svg)](https://badge.fury.io/py/smartpaste)
-
-**Other Packages**
-- **📦 [Pacetype](https://pypi.org/project/pacetype/)** - Type text character-by-character using clipboard paste
-- **📦 [Smartzoom](https://pypi.org/project/smartzoom/)** - Automatically apply smooth zoom to videos with FFmpeg
+| Project | Category | Description |
+| :--- | :--- | :--- |
+| 🎧 [**FocusDJ**](https://focusdj.vercel.app/) | `Web App` | Pomodoro timer with YouTube playlist integration and dynamic dark theming. |
+| 🌍 [**PolyPlaylist**](https://www.polyplaylist.com/) | `Education` | Language Learning website achieved via sentence mining! |
+| 🎵 [**DJ Malona**](https://www.djmalona.com/) | `Bio Tool` | Custom biotool web experience tailored for audio workflow distribution. |
+| 🪝 [**Untitled Grappling Game**](https://untitled-grappling-game.vercel.app) | `Web Game` | Physics-based 2D swinging and momentum grappling game sandbox. |
 
 ---
 
-## 🪽 Chrome Extensions & VSCode Extensions
-<!-- nav: { "name": "Extensions", "icon": "Chrome", "id": "extensions" } -->
-<!-- layout: "grid" -->
+### 💻 Desktop Applications
+> *Open-source local dev servers and desktop automation utilities*
 
-### Chrome
-- **🧩 [Gemini Copy Button Mover](https://chromewebstore.google.com/detail/gemini-copy-button-mover/dhoblhgambngmgkijdjlgacgmeeeienm)** - Improves the Google AI Studio interface by repositioning the copy button for better accessibility.
-- **🧩 [Google Keep Tab Titles](https://chromewebstore.google.com/detail/google-keep-tab-titles/gecielikdjnhofjhodleiifihoolceij)** - Dynamically updates Google Keep tab titles to match the current note's title.
-- **🧩 [Minesweeper Fullscreen Button](https://chromewebstore.google.com/detail/minesweeper-fullscreen-button/oejbciagdejboemjkdhgbmogmogoioip)** - Adds a responsive fullscreen button to the Google Search Minesweeper game.
-
-### VSCode
-- **📝 [Sidebar Snippets](https://marketplace.visualstudio.com/items?itemName=AMAMazing.sidebar-snippets)** - Keep a persistent list of code snippets in your VS Code sidebar, ready to be copied with a single click.
-- **📝 [Codespace Assistant](https://marketplace.visualstudio.com/items?itemName=AMAMazing.codespace-assistant)** - A VS Code sidebar extension designed to make coding with GitHub Codespaces easier and more efficient.
+| Project | Category | Description |
+| :--- | :--- | :--- |
+| ⚡ [**Cline X**](https://github.com/AMAMazing/cline-x) | `Desktop AI` | API server bridging Cline with AI models featuring modern web control panel. |
+| 🚀 [**VSCode Hub**](https://github.com/AMAMazing/VSCode-Hub) | `Desktop Tool` | Command center for Visual Studio Code providing project management. |
 
 ---
 
-## 🚀 Other Projects
-<!-- section: "other" -->
+### 🐍 Python Packages
+> *Open-source libraries published on PyPI for developers*
 
-**▶️ [YT-Playlist-From-Tags](https://github.com/AMAMazing/YT-Playlist-From-Tags)**
-<br>Python GUI tool for YouTube creators to automatically create playlists based on their most-used video tags.
-
-**Additional Projects**
-- **🖼️ [I got alot of photos](https://amamazing.github.io/igotalotofphotos-v3/)** - Modern redesign of Johanz's photo showcase
-- **🎵 [Spotify Song Search](https://github.com/AMAMazing/spotify-py-search/)** - Desktop app for searching and saving Spotify tracks
-
----
-
-## 📱 Mobile Apps
-<!-- nav: { "name": "Mobile", "icon": "Smartphone", "id": "mobile" } -->
-
-**Coming soon!** (Aiming for before 2026)
+| Project | Category | Downloads | Description |
+| :--- | :--- | :--- | :--- |
+| 🤖 [**talktollm**](https://pypi.org/project/talktollm/) | `LLM Automation` | [![PyPI Downloads](https://static.pepy.tech/badge/talktollm)](https://pepy.tech/projects/talktollm) | A Python utility for interacting with large language models (LLMs) via web automation |
+| 👁️ [**optimisewait**](https://pypi.org/project/optimisewait/) | `Computer Vision` | [![PyPI Downloads](https://static.pepy.tech/badge/optimisewait)](https://pepy.tech/projects/optimisewait) | A Python utility for automated image detection and clicking |
+| 📹 [**upload-socials**](https://pypi.org/project/upload-socials/) | `YouTube API` | [![PyPI Downloads](https://static.pepy.tech/badge/upload-socials)](https://pepy.tech/projects/upload-socials) | A Python library to automate video uploads to YouTube. |
+| 🔍 [**smartzoom**](https://pypi.org/project/smartzoom/) | `Video Utility` | [![PyPI Downloads](https://static.pepy.tech/badge/smartzoom)](https://pepy.tech/projects/smartzoom) | A Python utility to automatically apply a smooth, continuous zoom to a video, perfectly framing its content. |
+| 📋 [**smartpaste**](https://pypi.org/project/smartpaste/) | `Clipboard Tool` | [![PyPI Downloads](https://static.pepy.tech/badge/smartpaste)](https://pepy.tech/projects/smartpaste) | Reliable cross-platform clipboard pasting for Python. |
+| ⌨️ [**pacetype**](https://pypi.org/project/pacetype/) | `Input Automation` | [![PyPI Downloads](https://static.pepy.tech/badge/pacetype)](https://pepy.tech/projects/pacetype) | Type text and emojis character-by-character using clipboard paste. |
 
 ---
 
-## 📊 GitHub Stats
-<!-- nav: { "name": "Stats", "icon": "TerminalSquare", "id": "stats" } -->
+### 🧩 Chrome Extensions
+> *Productivity, AI workflow, and utility browser extensions*
+
+| Project | Category | Description |
+| :--- | :--- | :--- |
+| 🔄 [**AI Studio Auto Rerun**](https://chromewebstore.google.com/detail/ai-studio-auto-rerun) | `Chrome Extension` | Automatically reruns queries and retries prompt generation seamlessly in Google AI Studio. |
+| ⬇️ [**AI Studio Scroll Button**](https://chromewebstore.google.com/detail/ai-studio-scroll-button) | `Chrome Extension` | Adds convenient quick-scroll buttons to smoothly navigate long chat threads and prompts in Google AI Studio. |
+| 📋 [**Gemini Copy button**](https://chromewebstore.google.com/detail/gemini-copy-button) | `Chrome Extension` | Adds a convenient one-click copy button to easily grab responses and code blocks directly in Google Gemini. |
+| ⛶ [**Minesweeper Fullscreen Button**](https://chromewebstore.google.com/detail/minesweeper-fullscreen-button) | `Chrome Extension` | Expands Google Minesweeper into a clean, distraction-free fullscreen playing view. |
+| 🏷️ [**Google Keep Tab Titles**](https://chromewebstore.google.com/detail/google-keep-tab-titles) | `Chrome Extension` | Dynamically renames your browser tab to match the currently opened note for effortless Google Keep tab management. |
+
+---
+
+### 💠 VS Code Extensions
+> *Visual Studio Code extensions for GitHub Codespaces, snippet management, and workspace launching*
+
+| Project | Category | Description |
+| :--- | :--- | :--- |
+| ☁️ [**Codespace Assistant**](https://marketplace.visualstudio.com/items?itemName=AMAMazing.codespace-assistant) | `VS Code Extension` | A VSCode extension to let you code easier with GitHub codespaces. |
+| 📎 [**Sidebar Snippets**](https://marketplace.visualstudio.com/items?itemName=AMAMazing.sidebar-snippets) | `VS Code Extension` | A VS Code extension for keeping a persistent list of snippets in your sidebar, ready to be copied with a single click. |
+| 🚀 [**VS Code Hub**](https://marketplace.visualstudio.com/items?itemName=AMAMazing.vscode-hub) | `VS Code Extension` | Visual Studio Code Project Launcher Extension. |
+
+---
+
+### 📦 NPM Packages
+> *Developer scaffolding and starter CLI boilerplates*
+
+| Project | Category | Description |
+| :--- | :--- | :--- |
+| 📦 [**create-ama-stack**](https://www.npmjs.com/package/create-ama-stack) | `NPM Package` | CLI generator to scaffold complete modern TypeScript, Expo, and full-stack applications. |
+
+---
+
+## 🔥 GitHub Stats & Streak
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AMAMazing&theme=ocean-gradient&background=0B1121&border=1e293b" alt="Github Stats" />
-  </a>
+
+[![AMAMazing GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AMAMazing&theme=dark&hide_border=true&background=14181c&ring=818cf8&fire=818cf8&currStreakLabel=a5b4fc)](https://github.com/AMAMazing)
+
+[![AMAMazing GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMAMazing&show_icons=true&theme=dark&hide_border=true&bg_color=14181c&title_color=818cf8&text_color=cbd5e1&icon_color=34d399)](https://github.com/AMAMazing)
+
 </div>
 
 ---
 
 <div align="center">
-  
-**Building tools that matter.** ✨
-<br>
-© 2024 AMAMazing. All rights reserved.
+
+### ⚡ [**www.amamazing.dev**](https://www.amamazing.dev/)
 
 </div>
