@@ -106,8 +106,6 @@
 
 [![AMAMazing GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AMAMazing&theme=dark&hide_border=true&background=14181c&ring=818cf8&fire=818cf8&currStreakLabel=a5b4fc)](https://github.com/AMAMazing)
 
-[![AMAMazing GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMAMazing&show_icons=true&theme=dark&hide_border=true&bg_color=14181c&title_color=818cf8&text_color=cbd5e1&icon_color=34d399&hide=issues,contribs&include_all_commits=true&count_private=true)](https://github.com/AMAMazing)
-
 </div>
 
 ---
