@@ -15,17 +15,17 @@
 
 ## 🌟 Featured Core Projects
 
-| Project | Category |
+| Project | Description |
 | :--- | :--- |
-| 🌐 [**Mindcontroller Studio**](https://mindcontroller.studio) | `Hospitality SaaS` |
-| ☑️ [**My Daily To Do**](https://www.mydailytodo.com/) | `Productivity` |
-| 🔓 [**Leetcode Unlocked**](https://www.leetcodeunlocked.com/) | `Education & Ads` |
-| 🫧 [**Bubblegee**](https://bubblegee.com) | `Social Media` |
-| 🏟️ [**Wrestling Promotions**](https://wrestlingpromotions.com) | `Sports Media` |
-| 🌲 [**Biolinkt**](https://www.djmalona.com/) | `Creator WaaS` |
-| 📐 [**WindowZones**](https://windowzones.com) | `Desktop Utility` |
-| 🧋 [**Buy Me a Boba**](https://www.buymeaboba.com/) | `Monetization` |
-| ♟️ [**Coin Flip Chess**](https://coin-flip-chess.vercel.app/) | `Gaming & Ads` |
+| 🌐 [**Mindcontroller Studio**](https://mindcontroller.studio) | `Hospitality Software` |
+| ☑️ [**My Daily To Do**](https://www.mydailytodo.com/) | `Task Planner` |
+| 🔓 [**Leetcode Unlocked**](https://www.leetcodeunlocked.com/) | `Coding Prep` |
+| 🫧 [**Bubblegee**](https://bubblegee.com) | `Social Network` |
+| 🏟️ [**Wrestling Promotions**](https://wrestlingpromotions.com) | `Wrestling Directory` |
+| 🌲 [**Biolinkt**](https://www.djmalona.com/) | `Bio Links` |
+| 📐 [**WindowZones**](https://windowzones.com) | `Window Manager` |
+| 🧋 [**Buy Me a Boba**](https://www.buymeaboba.com/) | `Creator Tipping` |
+| ♟️ [**Coin Flip Chess**](https://coin-flip-chess.vercel.app/) | `Chess Variant` |
 
 ---
 
@@ -34,69 +34,69 @@
 ### 🌐 Web Applications
 > *Open-source browser utilities, transit systems, and game sandboxes*
 
-| Project | Category |
+| Project | Description |
 | :--- | :--- |
-| 🎧 [**FocusDJ**](https://focusdj.vercel.app/) | `Web App` |
-| 🌍 [**PolyPlaylist**](https://www.polyplaylist.com/) | `Education` |
-| 🎵 [**DJ Malona**](https://www.djmalona.com/) | `Bio Tool` |
-| 🪝 [**Untitled Grappling Game**](https://untitled-grappling-game.vercel.app) | `Web Game` |
+| 🎧 [**FocusDJ**](https://focusdj.vercel.app/) | `Focus Music` |
+| 🌍 [**PolyPlaylist**](https://www.polyplaylist.com/) | `Language Playlists` |
+| 🎵 [**DJ Malona**](https://www.djmalona.com/) | `Artist Profile` |
+| 🪝 [**Untitled Grappling Game**](https://untitled-grappling-game.vercel.app) | `Physics Platformer` |
 
 ---
 
 ### 💻 Desktop Applications
 > *Open-source local dev servers and desktop automation utilities*
 
-| Project | Category |
+| Project | Description |
 | :--- | :--- |
-| ⚡ [**Cline X**](https://github.com/AMAMazing/cline-x) | `Desktop AI` |
-| 🚀 [**VSCode Hub**](https://github.com/AMAMazing/VSCode-Hub) | `Desktop Tool` |
+| ⚡ [**Cline X**](https://github.com/AMAMazing/cline-x) | `Coding Agent` |
+| 🚀 [**VSCode Hub**](https://github.com/AMAMazing/VSCode-Hub) | `Workspace Launcher` |
 
 ---
 
 ### 🐍 Python Packages
 > *Open-source libraries published on PyPI for developers*
 
-| Project | Category | Downloads |
+| Project | Description | Downloads |
 | :--- | :--- | :--- |
-| 🤖 [**talktollm**](https://pypi.org/project/talktollm/) | `LLM Automation` | [![PyPI Downloads](https://static.pepy.tech/badge/talktollm)](https://pepy.tech/projects/talktollm) |
-| 👁️ [**optimisewait**](https://pypi.org/project/optimisewait/) | `Computer Vision` | [![PyPI Downloads](https://static.pepy.tech/badge/optimisewait)](https://pepy.tech/projects/optimisewait) |
-| 📹 [**upload-socials**](https://pypi.org/project/upload-socials/) | `YouTube API` | [![PyPI Downloads](https://static.pepy.tech/badge/upload-socials)](https://pepy.tech/projects/upload-socials) |
-| 🔍 [**smartzoom**](https://pypi.org/project/smartzoom/) | `Video Utility` | [![PyPI Downloads](https://static.pepy.tech/badge/smartzoom)](https://pepy.tech/projects/smartzoom) |
-| 📋 [**smartpaste**](https://pypi.org/project/smartpaste/) | `Clipboard Tool` | [![PyPI Downloads](https://static.pepy.tech/badge/smartpaste)](https://pepy.tech/projects/smartpaste) |
-| ⌨️ [**pacetype**](https://pypi.org/project/pacetype/) | `Input Automation` | [![PyPI Downloads](https://static.pepy.tech/badge/pacetype)](https://pepy.tech/projects/pacetype) |
+| 🤖 [**talktollm**](https://pypi.org/project/talktollm/) | `LLM Wrapper` | [![PyPI Downloads](https://static.pepy.tech/badge/talktollm)](https://pepy.tech/projects/talktollm) |
+| 👁️ [**optimisewait**](https://pypi.org/project/optimisewait/) | `Screen Waiting` | [![PyPI Downloads](https://static.pepy.tech/badge/optimisewait)](https://pepy.tech/projects/optimisewait) |
+| 📹 [**upload-socials**](https://pypi.org/project/upload-socials/) | `Video Uploader` | [![PyPI Downloads](https://static.pepy.tech/badge/upload-socials)](https://pepy.tech/projects/upload-socials) |
+| 🔍 [**smartzoom**](https://pypi.org/project/smartzoom/) | `Auto Zoom` | [![PyPI Downloads](https://static.pepy.tech/badge/smartzoom)](https://pepy.tech/projects/smartzoom) |
+| 📋 [**smartpaste**](https://pypi.org/project/smartpaste/) | `Clipboard Manager` | [![PyPI Downloads](https://static.pepy.tech/badge/smartpaste)](https://pepy.tech/projects/smartpaste) |
+| ⌨️ [**pacetype**](https://pypi.org/project/pacetype/) | `Typing Simulator` | [![PyPI Downloads](https://static.pepy.tech/badge/pacetype)](https://pepy.tech/projects/pacetype) |
 
 ---
 
 ### 🧩 Chrome Extensions
 > *Productivity, AI workflow, and utility browser extensions*
 
-| Project | Category |
+| Project | Description |
 | :--- | :--- |
-| 🔄 [**AI Studio Auto Rerun**](https://chromewebstore.google.com/detail/ai-studio-auto-rerun) | `Chrome Extension` |
-| ⬇️ [**AI Studio Scroll Button**](https://chromewebstore.google.com/detail/ai-studio-scroll-button) | `Chrome Extension` |
-| 📋 [**Gemini Copy button**](https://chromewebstore.google.com/detail/gemini-copy-button) | `Chrome Extension` |
-| ⛶ [**Minesweeper Fullscreen Button**](https://chromewebstore.google.com/detail/minesweeper-fullscreen-button) | `Chrome Extension` |
-| 🏷️ [**Google Keep Tab Titles**](https://chromewebstore.google.com/detail/google-keep-tab-titles) | `Chrome Extension` |
+| 🔄 [**AI Studio Auto Rerun**](https://chromewebstore.google.com/detail/ai-studio-auto-rerun) | `Prompt Retrier` |
+| ⬇️ [**AI Studio Scroll Button**](https://chromewebstore.google.com/detail/ai-studio-scroll-button) | `Chat Scroller` |
+| 📋 [**Gemini Copy button**](https://chromewebstore.google.com/detail/gemini-copy-button) | `Response Copier` |
+| ⛶ [**Minesweeper Fullscreen Button**](https://chromewebstore.google.com/detail/minesweeper-fullscreen-button) | `Fullscreen Toggle` |
+| 🏷️ [**Google Keep Tab Titles**](https://chromewebstore.google.com/detail/google-keep-tab-titles) | `Tab Renamer` |
 
 ---
 
 ### 💠 VS Code Extensions
 > *Visual Studio Code extensions for GitHub Codespaces, snippet management, and workspace launching*
 
-| Project | Category |
+| Project | Description |
 | :--- | :--- |
-| ☁️ [**Codespace Assistant**](https://marketplace.visualstudio.com/items?itemName=AMAMazing.codespace-assistant) | `VS Code Extension` |
-| 📎 [**Sidebar Snippets**](https://marketplace.visualstudio.com/items?itemName=AMAMazing.sidebar-snippets) | `VS Code Extension` |
-| 🚀 [**VS Code Hub**](https://marketplace.visualstudio.com/items?itemName=AMAMazing.vscode-hub) | `VS Code Extension` |
+| ☁️ [**Codespace Assistant**](https://marketplace.visualstudio.com/items?itemName=AMAMazing.codespace-assistant) | `Cloud Environments` |
+| 📎 [**Sidebar Snippets**](https://marketplace.visualstudio.com/items?itemName=AMAMazing.sidebar-snippets) | `Code Snippets` |
+| 🚀 [**VS Code Hub**](https://marketplace.visualstudio.com/items?itemName=AMAMazing.vscode-hub) | `Project Switcher` |
 
 ---
 
 ### 📦 NPM Packages
 > *Developer scaffolding and starter CLI boilerplates*
 
-| Project | Category |
+| Project | Description |
 | :--- | :--- |
-| 📦 [**create-ama-stack**](https://www.npmjs.com/package/create-ama-stack) | `NPM Package` |
+| 📦 [**create-ama-stack**](https://www.npmjs.com/package/create-ama-stack) | `Project Scaffolder` |
 
 ---
 
