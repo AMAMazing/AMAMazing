@@ -22,7 +22,6 @@
 | 🔓 [**Leetcode Unlocked**](https://www.leetcodeunlocked.com/) | `Coding Prep` |
 | 🫧 [**Bubblegee**](https://bubblegee.com) | `Social Network` |
 | 🏟️ [**Wrestling Promotions**](https://wrestlingpromotions.com) | `Wrestling Directory` |
-| 🌲 [**Biolinkt**](https://www.djmalona.com/) | `Bio Links` |
 | 📐 [**WindowZones**](https://windowzones.com) | `Window Manager` |
 | 🧋 [**Buy Me a Boba**](https://www.buymeaboba.com/) | `Creator Tipping` |
 | ♟️ [**Coin Flip Chess**](https://coin-flip-chess.vercel.app/) | `Chess Variant` |
