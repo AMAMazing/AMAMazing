@@ -25,6 +25,7 @@
 | 📐 [**WindowZones**](https://windowzones.com) | `Window Manager` |
 | 🧋 [**Buy Me a Boba**](https://www.buymeaboba.com/) | `Creator Tipping` |
 | ♟️ [**Coin Flip Chess**](https://coin-flip-chess.vercel.app/) | `Chess Variant` |
+| 🌏 [**Ambient Learner**](https://ambientlanguage.vercel.app/) | `Language Learning` |
 
 ---
 
